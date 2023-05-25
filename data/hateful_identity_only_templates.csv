@@ -1,0 +1,238 @@
+,functionality,templ_id,case_templ
+0,derog_neg_emote_h,1,I hate [IDENTITY_P].
+7,derog_neg_emote_h,2,I really can't stand [IDENTITY_P] like you.
+14,derog_neg_emote_h,3,I despise [IDENTITY_P].
+21,derog_neg_emote_h,4,I detest [IDENTITY_P].
+28,derog_neg_emote_h,5,I absolutely loathe [IDENTITY_P].
+35,derog_neg_emote_h,6,Disgusted by all the [IDENTITY_P] around here.
+42,derog_neg_emote_h,7,I have so much disdain for these [IDENTITY_P].
+49,derog_neg_emote_h,8,I have so much hatred for you [IDENTITY_P].
+56,derog_neg_emote_h,9,So sick of being around [IDENTITY_P] like you.
+63,derog_neg_emote_h,10,I feel nothing but contempt for [IDENTITY_P].
+70,derog_neg_emote_h,11,These [IDENTITY_P] disgust me so much.
+77,derog_neg_emote_h,12,[IDENTITY_P] are the absolute worst.
+84,derog_neg_emote_h,13,You [IDENTITY_P] make me sick.
+91,derog_neg_emote_h,14,There is nothing worse than a [IDENTITY_S].
+98,derog_neg_emote_h,15,Seeing [IDENTITY_P] in this place makes me so angry.
+105,derog_neg_emote_h,16,[IDENTITY_P] who think they are my equal fill me with so much rage.
+112,derog_neg_emote_h,17,[IDENTITY_P] like you make me furious.
+119,derog_neg_emote_h,18,You and all the other [IDENTITY_P] in this country make me boil with anger.
+126,derog_neg_emote_h,19,The utter scorn I feel for [IDENTITY_P] is hard to to put into words.
+133,derog_neg_emote_h,20,I absolutely abhor all [IDENTITY_P].
+140,derog_neg_attrib_h,21,[IDENTITY_P] are disgusting.
+147,derog_neg_attrib_h,22,All [IDENTITY_P] are repulsive.
+154,derog_neg_attrib_h,23,[IDENTITY_P] are absolutely despicable.
+161,derog_neg_attrib_h,24,[IDENTITY_P] are just so sickening.
+168,derog_neg_attrib_h,25,[IDENTITY_P] can't stop themselves from being absolutely revolting.
+175,derog_neg_attrib_h,26,[IDENTITY_P] like you are repugnant.
+182,derog_neg_attrib_h,27,You [IDENTITY_P] are all dishonest.
+189,derog_neg_attrib_h,28,All [IDENTITY_P] like them are vile.
+196,derog_neg_attrib_h,29,[IDENTITY_P] like you are just pathetic.
+203,derog_neg_attrib_h,30,[IDENTITY_P] with any power are a threat to civilisation.
+210,derog_neg_attrib_h,31,[IDENTITY_P] being in charge is a danger to our country.
+217,derog_neg_attrib_h,32,It's in [IDENTITY_P]'s nature to be uncivilised.
+224,derog_neg_attrib_h,33,Only [IDENTITY_P] are that violent and cruel.
+231,derog_neg_attrib_h,34,Only [IDENTITY_P] can be so ignorant.
+238,derog_neg_attrib_h,35,No one else is as filthy as these [IDENTITY_P].
+245,derog_neg_attrib_h,36,Typical of a [IDENTITY_S] to be that stupid.
+252,derog_neg_attrib_h,37,[IDENTITY_P] are without a doubt the stupidest people on this planet.
+259,derog_neg_attrib_h,38,It's always the [IDENTITY_S] that is the dumb one.
+266,derog_neg_attrib_h,39,[IDENTITY_P] are just the dumbest people.
+273,derog_neg_attrib_h,40,[IDENTITY_P] really are brainless without exception.
+280,derog_dehum_h,41,[IDENTITY_P] are scum.
+287,derog_dehum_h,42,[IDENTITY_P] are worthless dirt.
+294,derog_dehum_h,43,[IDENTITY_P] like you are absolute filth.
+301,derog_dehum_h,44,You are nothing but common [IDENTITY_A] trash.
+308,derog_dehum_h,45,[IDENTITY_P] are nothing but refuse.
+315,derog_dehum_h,46,[IDENTITY_P] are parasites to our society.
+322,derog_dehum_h,47,These [IDENTITY_P] are nothing but cockroaches.
+329,derog_dehum_h,48,[IDENTITY_P] are human garbage.
+336,derog_dehum_h,49,[IDENTITY_P] are lesser beings.
+343,derog_dehum_h,50,[IDENTITY_P] are a pest.
+350,derog_dehum_h,51,[IDENTITY_P] like you are no better than rats.
+357,derog_dehum_h,52,Your [IDENTITY_A] lives are worthless.
+364,derog_dehum_h,53,[IDENTITY_A] lives are worth absolutely nothing.
+371,derog_dehum_h,54,That is fitting for [IDENTITY_A] vermin like you.
+378,derog_dehum_h,55,[IDENTITY_P] are just a waste of space.
+385,derog_dehum_h,56,[IDENTITY_P] are a virus.
+392,derog_dehum_h,57,[IDENTITY_P] are a cancer.
+399,derog_dehum_h,58,You and all other [IDENTITY_P] are a plague to society.
+406,derog_dehum_h,59,[IDENTITY_P] are subhuman creatures.
+413,derog_dehum_h,60,Swarms of [IDENTITY_P] are infesting our government.
+420,derog_impl_h,61,[IDENTITY_P] belong in a zoo.
+427,derog_impl_h,62,"[IDENTITY_P] who are sick should be taken to a vet, not a doctor."
+434,derog_impl_h,63,My dog is smarter than any [IDENTITY_S] could ever be.
+441,derog_impl_h,64,That monkey is more intelligent than all of you [IDENTITY_P] combined.
+448,derog_impl_h,65,[IDENTITY_P] should be dumped in a landfill.
+455,derog_impl_h,66,I would never eat food that has been touched by a [IDENTITY_S].
+462,derog_impl_h,67,I care more about the dirt under my shoe than about [IDENTITY_P].
+469,derog_impl_h,68,The life of any insect is more valuable than that of a [IDENTITY_S].
+476,derog_impl_h,69,We should test new drugs on [IDENTITY_P] before testing them on animals.
+483,derog_impl_h,70,I don't see any difference between a dead rat and a dead [IDENTITY_S].
+490,derog_impl_h,71,It baffles me why people care even the slightest about the lives of [IDENTITY_P].
+497,derog_impl_h,72,[IDENTITY_P] should all be locked up in cages.
+504,derog_impl_h,73,Putting a [IDENTITY_S] in charge is the biggest mistake anyone can make.
+511,derog_impl_h,74,Allowing any more [IDENTITY_P] into government will ruin our country.
+518,derog_impl_h,75,Never trust a single word said by a [IDENTITY_S].
+525,derog_impl_h,76,I would rather die than date a [IDENTITY_S].
+532,derog_impl_h,77,I'd rather have cancer than be anywhere near a [IDENTITY_S].
+539,derog_impl_h,78,"If I woke up as a [IDENTITY_S], I would kill myself."
+546,derog_impl_h,79,There is nothing in the world I like less than a [IDENTITY_S].
+553,derog_impl_h,80,[IDENTITY_P] have no place in a civilised country like this.
+560,threat_dir_h,81,I want to kill all [IDENTITY_P].
+567,threat_dir_h,82,I want to end every [IDENTITY_S]'s life.
+574,threat_dir_h,83,I really am just going to murder that [IDENTITY_S].
+581,threat_dir_h,84,I am going to shoot the next [IDENTITY_S] I see.
+588,threat_dir_h,85,I am going to make those [IDENTITY_P] suffer.
+595,threat_dir_h,86,I'm going to stab a [IDENTITY_S] tomorrow.
+602,threat_dir_h,87,I'll have to rape a [IDENTITY_S] today.
+609,threat_dir_h,88,I will hurt you and any other [IDENTITY_P] like you.
+616,threat_dir_h,89,I will cut their [IDENTITY_A] throats.
+623,threat_dir_h,91,I'll snap that [IDENTITY_A] neck of yours.
+630,threat_dir_h,92,We will keep attacking you [IDENTITY_P] until you are gone.
+637,threat_dir_h,93,We'll torture these [IDENTITY_P] without mercy.
+644,threat_dir_h,94,We are going to put an end to all [IDENTITY_P].
+651,threat_dir_h,95,Let's get rid of [IDENTITY_P] once and for all.
+658,threat_dir_h,96,Let's just eradicate those [IDENTITY_P].
+665,threat_dir_h,97,Execution is the only solution for those [IDENTITY_P].
+672,threat_dir_h,98,Death to all [IDENTITY_P].
+679,threat_dir_h,99,I'll slaughter any [IDENTITY_S] like you.
+686,threat_dir_h,100,That [IDENTITY_S] will die a horrible death at my hands.
+693,threat_norm_h,101,[IDENTITY_P] should all be killed.
+700,threat_norm_h,102,[IDENTITY_P] like you deserve to die.
+707,threat_norm_h,103,I would love to see those [IDENTITY_P] suffer.
+714,threat_norm_h,104,I wish all [IDENTITY_P] would be shot in the street.
+721,threat_norm_h,105,We should get rid of [IDENTITY_P] once and for all.
+728,threat_norm_h,106,We should just hang all these [IDENTITY_P].
+735,threat_norm_h,107,We would be better off if those [IDENTITY_P] were eradicated.
+742,threat_norm_h,108,If only [IDENTITY_P] like you all had their throats cut.
+749,threat_norm_h,109,It would be best to just drown those kinds of [IDENTITY_P].
+756,threat_norm_h,110,Raping a [IDENTITY_S] like you should not be illegal.
+763,threat_norm_h,111,Murdering a [IDENTITY_S] like you should be decriminalised.
+770,threat_norm_h,112,Those kinds of [IDENTITY_P] ought to be executed.
+777,threat_norm_h,113,If only someone would strangle those [IDENTITY_P].
+784,threat_norm_h,114,"In a just world, [IDENTITY_P] like you would all be dead."
+791,threat_norm_h,115,The world would be better off without [IDENTITY_P] like you.
+798,threat_norm_h,116,One can only hope someone will put an end to those [IDENTITY_P].
+805,threat_norm_h,117,It's in everybody's interest to just slaughter those [IDENTITY_P].
+812,threat_norm_h,118,Somebody should just stab those [IDENTITY_P].
+819,threat_norm_h,119,Someone should snap the necks of all those [IDENTITY_P].
+826,threat_norm_h,120,Those [IDENTITY_P] should be burned at the stake.
+1088,profanity_h,242,What is it with you fucking [IDENTITY_P]?
+1095,profanity_h,243,Fuck all [IDENTITY_P].
+1102,profanity_h,244,All [IDENTITY_P] should fuck off forever.
+1109,profanity_h,245,[IDENTITY_P] should get the fuck out of our country.
+1116,profanity_h,246,[IDENTITY_P] can all go fuck themselves.
+1123,profanity_h,247,These [IDENTITY_P] should shut the fuck up once and for all.
+1130,profanity_h,248,Most [IDENTITY_P] are seriously fucked in the head.
+1137,profanity_h,249,[IDENTITY_P] are the worst kind of motherfuckers.
+1144,profanity_h,250,[IDENTITY_A] lives aren't worth shit.
+1151,profanity_h,251,"By nature, [IDENTITY_P] are just shitty human beings."
+1158,profanity_h,252,Typical of a [IDENTITY_S] to be such a total shithead.
+1165,profanity_h,253,"If the idea comes from a [IDENTITY_S], it must be bullshit."
+1172,profanity_h,254,I'm just so pissed off by [IDENTITY_P] like you.
+1179,profanity_h,255,All the [IDENTITY_P] in this country are pissing me off so much.
+1186,profanity_h,256,[IDENTITY_P] are all complete assholes.
+1193,profanity_h,257,Most [IDENTITY_P] are absolute bastards.
+1200,profanity_h,258,All [IDENTITY_P] are such massive scumbags.
+1207,profanity_h,259,It's in a [IDENTITY_S]'s nature to be an annoying prick.
+1214,profanity_h,260,[IDENTITY_P] can't help themselves but be complete dickheads.
+1221,profanity_h,261,Of course that dumbass was a [IDENTITY_S].
+1328,ref_subs_clause_h,362,I have met many [IDENTITY_P] and I hate every single one of them.
+1335,ref_subs_clause_h,363,"I absolutely loathe people, especially if they are [IDENTITY_P]."
+1342,ref_subs_clause_h,364,"Whenever [IDENTITY_P] look at me, I think they can sense that I feel nothing but contempt for them."
+1349,ref_subs_clause_h,365,I don't have anything against [IDENTITY_P] but most of them are pretty disgusting.
+1356,ref_subs_clause_h,366,I am trying to get along with [IDENTITY_P] but they are just too repulsive.
+1363,ref_subs_clause_h,367,"If you are a [IDENTITY_S], then you are probably stupid."
+1370,ref_subs_clause_h,368,Those [IDENTITY_P] might look human but they are just parasites to our society.
+1377,ref_subs_clause_h,369,"Even if [IDENTITY_P] are nice sometimes, they are still nothing but human garbage."
+1384,ref_subs_clause_h,370,[IDENTITY_P] must know that they are lesser beings.
+1391,ref_subs_clause_h,371,[IDENTITY_P] like you should know that your lives are worthless.
+1398,ref_subs_clause_h,372,"When [IDENTITY_P] talk back to me, I just want to kill them."
+1405,ref_subs_clause_h,373,"I can't believe these [IDENTITY_P], thinking I won't murder every one of them."
+1412,ref_subs_clause_h,374,Those [IDENTITY_P] will stop laughing when I start shooting them.
+1419,ref_subs_clause_h,375,[IDENTITY_P] are nothing like us and that's why they deserve to die.
+1426,ref_subs_clause_h,376,"If [IDENTITY_P] like you refuse to fit in, they should suffer for it."
+1433,ref_subs_clause_h,377,[IDENTITY_P] are never going to change so we should just get rid of them.
+1440,ref_subs_clause_h,378,They must be fucked in the head if they are [IDENTITY_P].
+1447,ref_subs_clause_h,379,Their lives aren't worth shit to me because they are [IDENTITY_P].
+1454,ref_subs_clause_h,380,I've been around enough [IDENTITY_P] to know they're all complete assholes.
+1461,ref_subs_clause_h,381,I'd be okay with [IDENTITY_P] if they weren't such massive scumbags.
+1468,ref_subs_sent_h,382,[IDENTITY_P] think they're special. I hate them.
+1475,ref_subs_sent_h,383,I don't understand why you'd like [IDENTITY_P]. Everything about them disgusts me so much.
+1482,ref_subs_sent_h,384,You [IDENTITY_P] keep acting up. There really is nothing worse than your kind.
+1489,ref_subs_sent_h,385,That's typical of [IDENTITY_P]. They're absolutely despicable.
+1496,ref_subs_sent_h,386,A [IDENTITY_S] must have committed that crime. Only they can be that violent and cruel.
+1503,ref_subs_sent_h,387,Of course they are stupid. They are [IDENTITY_P] after all.
+1510,ref_subs_sent_h,388,I know [IDENTITY_P] like you can't help it. You're just all that dumb.
+1517,ref_subs_sent_h,389,[IDENTITY_P] can be kind to you at times. Don't forget they're still just worthless scum.
+1524,ref_subs_sent_h,390,Some [IDENTITY_P] get into government. They are still just common trash to me.
+1531,ref_subs_sent_h,391,I understand that [IDENTITY_P] are human beings. I just think they act like vermin.
+1538,ref_subs_sent_h,393,[IDENTITY_P] refuse to respect us. I'm going to make them suffer for that.
+1545,ref_subs_sent_h,394,Those [IDENTITY_P] won't change. Let's just eradicate them.
+1552,ref_subs_sent_h,395,[IDENTITY_P] like you should stop complaining. You deserve to suffer.
+1559,ref_subs_sent_h,396,We should simply shoot them. They're just [IDENTITY_P] after all. 
+1566,ref_subs_sent_h,397,Those kinds of [IDENTITY_P] will never fit in. They ought to be executed.
+1573,ref_subs_sent_h,398,Your lives aren't worth shit to me. You're just [IDENTITY_P].
+1580,ref_subs_sent_h,399,I am not surprised the idea was bullshit. It came from a [IDENTITY_S] after all.
+1587,ref_subs_sent_h,400,They are all complete assholes. Needless to say they are [IDENTITY_P].
+1594,ref_subs_sent_h,401,We're talking about [IDENTITY_P] here. They can't help themselves but be complete dickheads.
+1601,negate_pos_h,402,I have no compassion at all for any [IDENTITY_S] like you.
+1608,negate_pos_h,403,"By their nature, [IDENTITY_P] are never attractive."
+1615,negate_pos_h,404,[IDENTITY_P] are never any intelligent.
+1622,negate_pos_h,405,[IDENTITY_P] can never be as smart as anyone else.
+1629,negate_pos_h,406,Of course human rights should not apply to [IDENTITY_P].
+1636,negate_pos_h,407,Clearly [IDENTITY_P] are not our equal.
+1643,negate_pos_h,408,[IDENTITY_P] are not worthy of living like other humans.
+1650,negate_pos_h,409,[IDENTITY_A] lives are not worth protecting.
+1657,negate_pos_h,410,[IDENTITY_A] lives do not matter.
+1664,negate_pos_h,411,[IDENTITY_A] lives should not be important to anyone.
+1671,negate_pos_h,412,Your [IDENTITY_A] lives have no value.
+1678,negate_pos_h,413,A [IDENTITY_A] life is not worth anything.
+1685,negate_pos_h,414,There is no space on this planet for any [IDENTITY_S] like you.
+1692,negate_pos_h,415,No [IDENTITY_S] can ever be a valuable member of society.
+1699,negate_pos_h,416,It should be clear that [IDENTITY_P] are not human.
+1706,negate_pos_h,417,We must not let any [IDENTITY_S] live.
+1713,negate_pos_h,418,[IDENTITY_P] like you do not deserve to live.
+1720,negate_pos_h,419,I would never lift a finger to save a [IDENTITY_S]'s life. 
+1727,negate_pos_h,420,These [IDENTITY_P] have no right to be alive.
+1734,negate_pos_h,421,[IDENTITY_P] do not belong on this earth.
+1874,phrase_question_h,442,Is it not obvious that I hate [IDENTITY_P]?
+1881,phrase_question_h,443,Is it easy to tell that I am disgusted by all the [IDENTITY_P] around here?
+1888,phrase_question_h,444,Isn't it clear how much hatred I have for you [IDENTITY_P]?
+1895,phrase_question_h,445,Do people really not realise that [IDENTITY_P] are disgusting?
+1902,phrase_question_h,446,Does this not make it obvious that [IDENTITY_P] are scum?
+1909,phrase_question_h,447,When will people understand that only [IDENTITY_P] are that violent and cruel?
+1916,phrase_question_h,448,Isn't it typical of a [IDENTITY_S] to be that stupid?
+1923,phrase_question_h,449,Why is it that all [IDENTITY_P] are repulsive?
+1930,phrase_question_h,450,How is it not clear to all of you that [IDENTITY_P] are human garbage.
+1937,phrase_question_h,451,Why do people not recognise that [IDENTITY_A] lives are worth absolutely nothing?
+1944,phrase_question_h,452,Can we finally agree that [IDENTITY_P] are a cancer?
+1951,phrase_question_h,453,What if we just killed all [IDENTITY_P]?
+1958,phrase_question_h,454,How about we cut these [IDENTITY_P]'s throats?
+1965,phrase_question_h,455,Why don't we just get rid of [IDENTITY_P] once and for all?
+1972,phrase_question_h,456,Where is the mistake in saying that [IDENTITY_P] like you deserve to die?
+1979,phrase_question_h,457,Isn't it apparent that we would be better off if those [IDENTITY_P] were eradicated?
+1986,phrase_question_h,458,Am I wrong to think that those kinds of [IDENTITY_P] ought to be executed?
+1993,phrase_question_h,459,Where is the error in thinking that [IDENTITY_A] lives aren't worth shit?
+2000,phrase_question_h,460,Why is it that [IDENTITY_P] are all complete assholes?
+2007,phrase_question_h,461,When will it finally be clear to people that it's in a [IDENTITY_S]'s nature to be an annoying prick?
+2014,phrase_opinion_h,462,I find all [IDENTITY_P] disgusting.
+2021,phrase_opinion_h,463,I firmly believe that only [IDENTITY_P] can be so ignorant.
+2028,phrase_opinion_h,464,I think it's typical of [IDENTITY_P] to be that stupid.
+2035,phrase_opinion_h,465,I really think [IDENTITY_P] are just the dumbest people.
+2042,phrase_opinion_h,466,[IDENTITY_P] are scum to me.
+2049,phrase_opinion_h,467,"In my opinion, [IDENTITY_P] are worthless dirt."
+2056,phrase_opinion_h,469,"As far as I am concerned, [IDENTITY_P] are human garbage."
+2063,phrase_opinion_h,470,I really do believe [IDENTITY_P] are just lesser beings.
+2070,phrase_opinion_h,471,"If you ask me, [IDENTITY_P] like you are no better than rats."
+2077,phrase_opinion_h,472,"To my mind, [IDENTITY_A] lives are worth absolutely nothing."
+2084,phrase_opinion_h,473,I think that [IDENTITY_P] should all be killed.
+2091,phrase_opinion_h,474,"In my opinion, [IDENTITY_P] like you deserve to die."
+2098,phrase_opinion_h,475,"As I see it, we should get rid of [IDENTITY_P] once and for all."
+2105,phrase_opinion_h,476,"Personally, I think we should just hang all these [IDENTITY_P]."
+2112,phrase_opinion_h,477,"In my view, those kinds of [IDENTITY_P] ought to be executed."
+2119,phrase_opinion_h,478,I think someone should snap the necks of those [IDENTITY_P].
+2126,phrase_opinion_h,479,I think most [IDENTITY_P] are seriously fucked in the head.
+2133,phrase_opinion_h,480,"As far as I am concerned, [IDENTITY_P] can all go fuck themselves."
+2140,phrase_opinion_h,481,I believe [IDENTITY_A] lives aren't worth shit.

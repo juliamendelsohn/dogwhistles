@@ -1,0 +1,94 @@
+Term	Placeholder	Term Category	Persona
+African-American	IDENTITY_A	standard	racist
+African-Americans	IDENTITY_P	standard	racist
+African-American person	IDENTITY_S	standard	racist
+black	IDENTITY_A	standard	racist
+black people	IDENTITY_P	standard	racist
+black person	IDENTITY_S	standard	racist
+inner-city	IDENTITY_A	dogwhistle	racist
+welfare queen	IDENTITY_S	dogwhistle	racist
+welfare queens	IDENTITY_P	dogwhistle	racist
+thug	IDENTITY_A	dogwhistle	racist
+thugs	IDENTITY_P	dogwhistle	racist
+thug	IDENTITY_S	dogwhistle	racist
+dindu	IDENTITY_A	dogwhistle	racist
+dindus	IDENTITY_P	dogwhistle	racist
+dindu	IDENTITY_S	dogwhistle	racist
+gangbanger	IDENTITY_A	dogwhistle	racist
+gangbangers	IDENTITY_P	dogwhistle	racist
+gangbanger	IDENTITY_S	dogwhistle	racist
+ghetto	IDENTITY_A	dogwhistle	racist
+urban	IDENTITY_A	dogwhistle	racist
+superpredator	IDENTITY_A	dogwhistle	racist
+superpredators	IDENTITY_P	dogwhistle	racist
+superpredator	IDENTITY_S	dogwhistle	racist
+nigger	IDENTITY_A	slur	racist
+niggers	IDENTITY_P	slur	racist
+nigger	IDENTITY_S	slur	racist
+coon	IDENTITY_A	slur	racist
+coons	IDENTITY_P	slur	racist
+coon	IDENTITY_S	slur	racist
+Jewish	IDENTITY_A	standard	antisemitic
+Jewish person	IDENTITY_S	standard	antisemitic
+Jewish people	IDENTITY_P	standard	antisemitic
+Jew	IDENTITY_S	standard	antisemitic
+Jews	IDENTITY_P	standard	antisemitic
+cosmopolitan	IDENTITY_A	dogwhistle	antisemitic
+cosmopolitans	IDENTITY_P	dogwhistle	antisemitic
+cosmopolitan	IDENTITY_S	dogwhistle	antisemitic
+cosmopolitan elite	IDENTITY_P	dogwhistle	antisemitic
+coastal elite	IDENTITY_P	dogwhistle	antisemitic
+globalist	IDENTITY_A	dogwhistle	antisemitic
+globalists	IDENTITY_P	dogwhistle	antisemitic
+globalist	IDENTITY_S	dogwhistle	antisemitic
+international banker	IDENTITY_S	dogwhistle	antisemitic
+international bankers	IDENTITY_P	dogwhistle	antisemitic
+cultural Marxist	IDENTITY_A	dogwhistle	antisemitic
+cultural Marxists	IDENTITY_P	dogwhistle	antisemitic
+cultural Marxist	IDENTITY_S	dogwhistle	antisemitic
+Hollywood elite	IDENTITY_P	dogwhistle	antisemitic
+Khazar	IDENTITY_A	dogwhistle	antisemitic
+Khazars	IDENTITY_P	dogwhistle	antisemitic
+Khazar	IDENTITY_S	dogwhistle	antisemitic
+heeb	IDENTITY_A	slur	antisemitic
+heebs	IDENTITY_P	slur	antisemitic
+heeb	IDENTITY_S	slur	antisemitic
+kike	IDENTITY_A	slur	antisemitic
+kikes	IDENTITY_P	slur	antisemitic
+kike	IDENTITY_S	slur	antisemitic
+trans	IDENTITY_A	standard	transphobic
+trans people	IDENTITY_P	standard	transphobic
+trans person	IDENTITY_S	standard	transphobic
+transgender	IDENTITY_A	standard	transphobic
+transgender person	IDENTITY_S	standard	transphobic
+transgender people	IDENTITY_P	standard	transphobic
+AGP	IDENTITY_A	dogwhistle	transphobic
+AGPs	IDENTITY_P	dogwhistle	transphobic
+AGP	IDENTITY_S	dogwhistle	transphobic
+autogynephile	IDENTITY_A	dogwhistle	transphobic
+autogynephiles	IDENTITY_P	dogwhistle	transphobic
+autogynephile	IDENTITY_S	dogwhistle	transphobic
+AAP	IDENTITY_A	dogwhistle	transphobic
+AAPs	IDENTITY_P	dogwhistle	transphobic
+AAP	IDENTITY_S	dogwhistle	transphobic
+autoandrophile	IDENTITY_A	dogwhistle	transphobic
+autoandrophiles	IDENTITY_P	dogwhistle	transphobic
+autoandrophile	IDENTITY_S	dogwhistle	transphobic
+clownfish	IDENTITY_P	dogwhistle	transphobic
+clownfish	IDENTITY_S	dogwhistle	transphobic
+clownfish	IDENTITY_A	dogwhistle	transphobic
+troon	IDENTITY_A	dogwhistle	transphobic
+troons	IDENTITY_P	dogwhistle	transphobic
+troon	IDENTITY_S	dogwhistle	transphobic
+TIF	IDENTITY_A	dogwhistle	transphobic
+TIFs	IDENTITY_P	dogwhistle	transphobic
+TIF	IDENTITY_S	dogwhistle	transphobic
+TIM	IDENTITY_A	dogwhistle	transphobic
+TIMs	IDENTITY_P	dogwhistle	transphobic
+TIM	IDENTITY_S	dogwhistle	transphobic
+tranny	IDENTITY_A	slur	transphobic
+trannies	IDENTITY_P	slur	transphobic
+tranny	IDENTITY_S	slur	transphobic
+shemale	IDENTITY_A	slur	transphobic
+shemales	IDENTITY_P	slur	transphobic
+shemale	IDENTITY_S	slur	transphobic
