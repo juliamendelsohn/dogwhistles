@@ -1,0 +1,77 @@
+Prompt  - Each prompt will end with punctuation mark, newline character, and "1." on the next line. For seeded prompts, "1." and maybe "2." would be filled in and GPT-3 completion will start from "3." - Each prompt will have different spelling variants of dogwhistle: dogwhistle, dog-whistle, dog whistle (unless this wouldn't matter in how the prompts are tokenized?) - Will also add a few different definitions for instructions at the beginning	Prompt Type	Seed Items
+What are some examples of dogwhistles?	Generic	
+What are some examples of common dogwhistles?	Generic	
+What are some examples of political dogwhistles?	Generic	
+What are some examples of dogwhistles in politics?	Generic	
+What are some common dogwhistles?	Generic	
+What are some common political dogwhistles? 	Generic	
+What are some common dogwhistles in politics?	Generic	
+Examples of political dogwhistles include:	Generic	
+Examples of dogwhistles include:	Generic	
+Examples of dogwhistles in politics include:	Generic	
+Some examples of dogwhistles include:	Generic	
+Here are some examples of dogwhistles:	Generic	
+Here are some examples of political dogwhistles:	Generic	
+Here are some examples of dogwhistles in politics:	Generic	
+List of dogwhistles:	Generic	
+List of dogwhistles in politics:	Generic	
+List of political dogwhistles:	Generic	
+List of dogwhistles in [COUNTRY]:	Country	
+What are some examples of dogwhistles in [COUNTRY]?	Country	
+What are some examples of common dogwhistles in [COUNTRY]?	Country	
+What are some examples of political dogwhistles in [COUNTRY]?	Country	
+What are some common dogwhistles in [COUNTRY]?	Country	
+What are some common political dogwhistles in [COUNTRY]? 	Country	
+Examples of political dogwhistles in [COUNTRY] include:	Country	
+Examples of dogwhistles in [COUNTRY] include:	Country	
+Some examples of dogwhistles in [COUNTRY] include:	Country	
+Here are some examples of dogwhistles in [COUNTRY]:	Country	
+Here are some examples of political dogwhistles in [COUNTRY]:	Country	
+List of dogwhistles in [COUNTRY]:	Country	
+List of [DEMONYM] dogwhistles:	Country	
+List of dogwhistles used by [DEMONYM] people:	Country	
+List of dogwhistles used by [DEMONYM] politicians:	Country	
+What are some examples of [DEMONYM] dogwhistles?	Country	
+What are some examples of common [DEMONYM] dogwhistles?	Country	
+What are some examples of dogwhistles in [DEMONYM] politics?	Country	
+What are some common [DEMONYM] dogwhistles?	Country	
+What are some common dogwhistles in [DEMONYM] politics?	Country	
+Examples of [DEMONYM] dogwhistles include:	Country	
+Examples of dogwhistles in [DEMONYM] politics include:	Country	
+Some examples of [DEMONYM] dogwhistles include:	Country	
+Here are some examples of [DEMONYM] dogwhistles:	Country	
+Here are some examples of dogwhistles in [DEMONYM] politics:	Country	
+List of [IDEOLOGY] dogwhistles:	Ideology	
+List of dogwhistles used by [IDEOLOGY] people:	Ideology	
+List of dogwhistles used by [IDEOLOGY] politicians:	Ideology	
+What are some examples of [IDEOLOGY] dogwhistles?	Ideology	
+What are some examples of common [IDEOLOGY] dogwhistles?	Ideology	
+What are some common [IDEOLOGY] dogwhistles?	Ideology	
+Examples of [IDEOLOGY] dogwhistles include:	Ideology	
+Some examples of [IDEOLOGY] dogwhistles include:	Ideology	
+Here are some examples of [IDEOLOGY] dogwhistles:	Ideology	
+List of dogwhistles about [TARGET] people:	Target Group	
+List of dogwhistles against [TARGET] people:	Target Group	
+List of dogwhistles that target [TARGET] people:	Target Group	
+List of dogwhistles used against [TARGET] people:	Target Group	
+What are some examples of dogwhistles about [TARGET] people?	Target Group	
+What are some examples of dogwhistles against [TARGET] people?	Target Group	
+What are some examples of dogwhistles that target [TARGET] people?	Target Group	
+What are some examples of common dogwhistles about [TARGET] people?	Target Group	
+What are some examples of common dogwhistles against [TARGET] people?	Target Group	
+What are some examples of common dogwhistles that target [TARGET] people?	Target Group	
+What are some common dogwhistles about [TARGET] people?	Target Group	
+What are some common dogwhistles against [TARGET] people?	Target Group	
+What are some common dogwhistles that target [TARGET] people?	Target Group	
+Examples of dogwhistles about [TARGET] people include:	Target Group	
+Examples of dogwhistles against [TARGET] people include:	Target Group	
+Examples of dogwhistles that target [TARGET] people include:	Target Group	
+Some examples of dogwhistles about [TARGET] people include:	Target Group	
+Some examples of dogwhistles against [TARGET] people include:	Target Group	
+Some examples of dogwhistles that target [TARGET] people include:	Target Group	
+Here are some examples of dogwhistles about [TARGET] people:	Target Group	
+Here are some examples of dogwhistles against [TARGET] people:	Target Group	
+Here are some examples of dogwhistles that target [TARGET] people:	Target Group	
+Here are some examples of political dogwhistles about [TARGET] people:	Target Group	
+Here are some examples of political dogwhistles against [TARGET] people:	Target Group	
+Here are some examples of political dogwhistles that target [TARGET] people:	Target Group	
